@@ -1,6 +1,6 @@
 ## DevAthhh
 
-<img src="bg.jpg" />
+<img src="bg.jpg" align="center" border-radius="40px"/>
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DevAthhh)
