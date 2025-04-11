@@ -9,6 +9,4 @@
     <br>
 </p>
 
-<p align="center">
   ![LeetCode Stats](https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap)
-</p>
