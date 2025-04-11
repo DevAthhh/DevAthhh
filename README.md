@@ -1,5 +1,11 @@
+<style>
+  .bg-for-profile {
+    border-radius: 40px;
+  }
+</style>
+
 <p align="center">
-<img src="bg.jpg"/>
+<img src="bg.jpg" class="bg-for-profile"/>
 </p>
 
 # My Stack
