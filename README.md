@@ -7,4 +7,6 @@
     <img src="https://skillicons.dev/icons?i=postgres,py,go,html&perline=7" />
     <img src="https://skillicons.dev/icons?i=docker,linux,vscode,postman,git,obsidian&perline=7" />
     <br>
-  </p>
+</p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap)
