@@ -1,16 +1,16 @@
 ## DevAthhh
 
-<!--
-**DevAthhh/DevAthhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DevAthhh)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Stack
+<details align="center">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,py,go,html&perline=7" />
+    <h3>Utils</h3>
+    <img src="https://skillicons.dev/icons?i=docker,linux,vscode,postman,git,obsidian&perline=7" />
+    <br>
+  </p>
+</details>
