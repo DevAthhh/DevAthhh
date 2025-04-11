@@ -9,7 +9,7 @@
     <br>
 </p>
   <p align="center">
-    <img src="[https://skillicons.dev/icons?i=postgres,py,go,html,css&perline=7](https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap)" />
+    <img src="https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap" />
     <br>
 </p>
 
