@@ -8,6 +8,8 @@
     <img src="https://skillicons.dev/icons?i=docker,linux,vscode,postman,git,obsidian&perline=7" />
     <br>
 </p>
+
+# For fun)
   <p align="center">
     <img src="https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap" />
     <br>
