@@ -5,7 +5,7 @@
 
 # My Stack
 <details align="center">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <h2><b>My stack</b></h2>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=postgres,py,go,html&perline=7" />
