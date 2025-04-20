@@ -1,5 +1,5 @@
 <p align="center">
-<img src="meme.png" width="300px"/>
+<img src="meme2.png" width="200px"/>
 </p>
 
 # My Stack
