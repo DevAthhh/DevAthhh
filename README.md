@@ -1,5 +1,5 @@
 <p align="center">
-<img src="bg.jpg" class="bg-for-profile"/>
+<img src="meme.png" class="bg-for-profile"/>
 </p>
 
 # My Stack
