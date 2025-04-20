@@ -11,7 +11,7 @@
 
 # For fun)
   <p align="end">
-    <img src="https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap" />
+    <a href="https://leetcode.com/u/DevAthhh/"><img src="https://leetcard.jacoblin.cool/DevAthhh?theme=dark&font=Reem%20Kufi&ext=heatmap" width="300px"/></a>
     <br>
 </p>
 
